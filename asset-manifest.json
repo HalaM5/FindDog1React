@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FindDog1React/static/css/main.073c9b0a.css",
+    "main.js": "/FindDog1React/static/js/main.46c18725.js",
+    "static/js/787.1e4bba54.chunk.js": "/FindDog1React/static/js/787.1e4bba54.chunk.js",
+    "static/media/logo.svg": "/FindDog1React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/FindDog1React/index.html",
+    "main.073c9b0a.css.map": "/FindDog1React/static/css/main.073c9b0a.css.map",
+    "main.46c18725.js.map": "/FindDog1React/static/js/main.46c18725.js.map",
+    "787.1e4bba54.chunk.js.map": "/FindDog1React/static/js/787.1e4bba54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.46c18725.js"
+  ]
+}
