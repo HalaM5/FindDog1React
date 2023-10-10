@@ -1,0 +1,14 @@
+.footer{
+    background-color: aqua;
+    position: absolute;
+    bottom:0px;
+    width: 100vw;
+    font-size: calc(10px + 2vmin);
+}
+
+.footer p{
+    color:rgba(172, 84, 7, 0.845);
+    font-weight:bold ;
+}
+
+.footer p span{}
